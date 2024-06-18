@@ -3,7 +3,7 @@ site_name: Gopocket User Manual/Mobile
  # Configuration
 theme:
   name: material
-  logo: ./assets/images/gopocketlogo.svg
+  logo: ./assets/gopocketlogo.svg
   features:
     - content.code.copy 
     # - announce.dismiss
